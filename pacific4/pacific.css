@@ -63,3 +63,9 @@ footer {
 h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+main {
+    padding-left: 2em;
+    padding-right: 2em;
+    display: block;
+}
