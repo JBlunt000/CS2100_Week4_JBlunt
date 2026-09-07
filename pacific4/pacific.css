@@ -1,5 +1,7 @@
 body {
-    background-color: #FFFFFF;
+    background-color: #90C7E3;
+    background-image: linear-gradient(to bottom, #FFFFFF, #90C7E3);
+    background-repeat: no-repeat;
     color: #666666;
     font-family: Verdana, Arial, sans-serif;
 }
