@@ -22,8 +22,11 @@ h1 {
 }
 
 nav {
-    background-color: #BBDEFB;
     font-weight: bold;
+    padding-top: .5em;
+    padding-right: .5em;
+    padding-bottom: .5em;
+    text-align: center;
 }
 
 h2 {
