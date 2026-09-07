@@ -10,6 +10,10 @@ header {
     background-color: #002171;
     color: #FFFFFF;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url('sunset.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 72px;
 }
 
 h1 {
