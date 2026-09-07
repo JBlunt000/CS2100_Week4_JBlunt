@@ -43,7 +43,10 @@ footer {
 }
 
 #wrapper {
-    width: 80%;
+    background-color: #FFFFFF;
+    min-width: 960px;
+    max-width: 2048px;
     margin-right: auto;
     margin-left: auto;
+    box-shadow: 0px 0px 0px 0px #000000;
 }
